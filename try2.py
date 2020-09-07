@@ -5,6 +5,8 @@
 #####
 ##2020.9.8
 ##9.8.00.33
+##00.51
+
 
 import pyqtgraph as pg
 from PyQt5 import QtCore, QtGui, QtWidgets ,QtMultimedia
