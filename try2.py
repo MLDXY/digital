@@ -4,7 +4,7 @@
 #IDE:PyCharm2019.2
 #####
 ##2020.9.8
-
+##9.8.00.33
 
 import pyqtgraph as pg
 from PyQt5 import QtCore, QtGui, QtWidgets ,QtMultimedia
