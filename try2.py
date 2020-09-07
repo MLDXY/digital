@@ -3,6 +3,7 @@
 #Compatibility: python3.8
 #IDE:PyCharm2019.2
 #####
+##2020.9.8
 
 
 import pyqtgraph as pg
